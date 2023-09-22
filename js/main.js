@@ -24,8 +24,6 @@ if (localStorage.getItem('tasks')) {
 
 checkEmptyList();
 
-/* alt+shift + a   */
-/* Shift + Alt + F  выравнивание*/
 
 //добавление задачи
 form.addEventListener('submit', addTask);
